@@ -1,0 +1,6 @@
+C:\Users\sams club àtria\OneDrive - Centro de Enseñanza Técnica Industrial\Programación\CSharp\CSharp\CSharp\bin\Debug\CSharp.exe.config
+C:\Users\sams club àtria\OneDrive - Centro de Enseñanza Técnica Industrial\Programación\CSharp\CSharp\CSharp\bin\Debug\CSharp.exe
+C:\Users\sams club àtria\OneDrive - Centro de Enseñanza Técnica Industrial\Programación\CSharp\CSharp\CSharp\bin\Debug\CSharp.pdb
+C:\Users\sams club àtria\OneDrive - Centro de Enseñanza Técnica Industrial\Programación\CSharp\CSharp\CSharp\obj\Debug\CSharp.csprojResolveAssemblyReference.cache
+C:\Users\sams club àtria\OneDrive - Centro de Enseñanza Técnica Industrial\Programación\CSharp\CSharp\CSharp\obj\Debug\CSharp.exe
+C:\Users\sams club àtria\OneDrive - Centro de Enseñanza Técnica Industrial\Programación\CSharp\CSharp\CSharp\obj\Debug\CSharp.pdb

@@ -1,0 +1,5 @@
+C:\Users\sams club àtria\OneDrive - Centro de Enseñanza Técnica Industrial\Programación\CSharp\Intermedio\MisMates\bin\Debug\MisMates.dll
+C:\Users\sams club àtria\OneDrive - Centro de Enseñanza Técnica Industrial\Programación\CSharp\Intermedio\MisMates\bin\Debug\MisMates.pdb
+C:\Users\sams club àtria\OneDrive - Centro de Enseñanza Técnica Industrial\Programación\CSharp\Intermedio\MisMates\obj\Debug\MisMates.csprojResolveAssemblyReference.cache
+C:\Users\sams club àtria\OneDrive - Centro de Enseñanza Técnica Industrial\Programación\CSharp\Intermedio\MisMates\obj\Debug\MisMates.dll
+C:\Users\sams club àtria\OneDrive - Centro de Enseñanza Técnica Industrial\Programación\CSharp\Intermedio\MisMates\obj\Debug\MisMates.pdb

@@ -1,0 +1,8 @@
+C:\Users\sams club àtria\OneDrive - Centro de Enseñanza Técnica Industrial\Programación\CSharp\Intermedio\Intermedio\bin\Debug\Intermedio.exe.config
+C:\Users\sams club àtria\OneDrive - Centro de Enseñanza Técnica Industrial\Programación\CSharp\Intermedio\Intermedio\bin\Debug\Intermedio.exe
+C:\Users\sams club àtria\OneDrive - Centro de Enseñanza Técnica Industrial\Programación\CSharp\Intermedio\Intermedio\bin\Debug\Intermedio.pdb
+C:\Users\sams club àtria\OneDrive - Centro de Enseñanza Técnica Industrial\Programación\CSharp\Intermedio\Intermedio\obj\Debug\Intermedio.csprojResolveAssemblyReference.cache
+C:\Users\sams club àtria\OneDrive - Centro de Enseñanza Técnica Industrial\Programación\CSharp\Intermedio\Intermedio\obj\Debug\Intermedio.exe
+C:\Users\sams club àtria\OneDrive - Centro de Enseñanza Técnica Industrial\Programación\CSharp\Intermedio\Intermedio\obj\Debug\Intermedio.pdb
+C:\Users\sams club àtria\OneDrive - Centro de Enseñanza Técnica Industrial\Programación\CSharp\Intermedio\Intermedio\bin\Debug\MisMates.dll
+C:\Users\sams club àtria\OneDrive - Centro de Enseñanza Técnica Industrial\Programación\CSharp\Intermedio\Intermedio\bin\Debug\MisMates.pdb

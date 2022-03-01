@@ -1,0 +1,6 @@
+C:\Users\sams club àtria\OneDrive - Centro de Enseñanza Técnica Industrial\Programación\CSharp\ConceptosPOO\ConceptosPOO\bin\Debug\ConceptosPOO.exe.config
+C:\Users\sams club àtria\OneDrive - Centro de Enseñanza Técnica Industrial\Programación\CSharp\ConceptosPOO\ConceptosPOO\bin\Debug\ConceptosPOO.exe
+C:\Users\sams club àtria\OneDrive - Centro de Enseñanza Técnica Industrial\Programación\CSharp\ConceptosPOO\ConceptosPOO\bin\Debug\ConceptosPOO.pdb
+C:\Users\sams club àtria\OneDrive - Centro de Enseñanza Técnica Industrial\Programación\CSharp\ConceptosPOO\ConceptosPOO\obj\Debug\ConceptosPOO.csprojResolveAssemblyReference.cache
+C:\Users\sams club àtria\OneDrive - Centro de Enseñanza Técnica Industrial\Programación\CSharp\ConceptosPOO\ConceptosPOO\obj\Debug\ConceptosPOO.exe
+C:\Users\sams club àtria\OneDrive - Centro de Enseñanza Técnica Industrial\Programación\CSharp\ConceptosPOO\ConceptosPOO\obj\Debug\ConceptosPOO.pdb

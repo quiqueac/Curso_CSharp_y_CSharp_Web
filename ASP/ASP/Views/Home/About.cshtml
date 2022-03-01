@@ -1,0 +1,40 @@
+﻿@*@model ASP.Models.Pelicula*@
+@model List<ASP.Models.Pelicula>
+@{
+    ViewBag.Title = "About";
+    string nombre = "Enrique";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+@Html.Partial("_ListadoPersonas", (List<ASP.Controllers.Persona>)ViewBag.MiListados)
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Título</th>
+            <th>Duración</th>
+            <th>País</th>
+            <th>Lanzamiento</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var pelicula in Model)
+        {
+            <tr>
+                <td>@pelicula.Titulo</td>
+                <td>@pelicula.Duracion</td>
+                <td>@pelicula.Pais</td>
+                <td>@pelicula.Publicacion.ToString("dd/MM/yyyy")</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@*<h4>@Model.getTitulo()</h4>
+<h5>Duración: @Model.getDuracion()</h5>
+<h5>Publicación: @Model.getPublicacion().ToString()</h5>
+<h5>Filmado: @Model.getPais()</h5>*@
+
+<p>Use this area to provide additional information.</p>
+<h5>@nombre</h5>

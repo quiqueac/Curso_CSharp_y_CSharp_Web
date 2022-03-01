@@ -1,0 +1,6 @@
+C:\Users\sams club àtria\OneDrive - Centro de Enseñanza Técnica Industrial\Programación\CSharp\Avanzado\Avanzado\bin\Debug\Avanzado.exe.config
+C:\Users\sams club àtria\OneDrive - Centro de Enseñanza Técnica Industrial\Programación\CSharp\Avanzado\Avanzado\bin\Debug\Avanzado.exe
+C:\Users\sams club àtria\OneDrive - Centro de Enseñanza Técnica Industrial\Programación\CSharp\Avanzado\Avanzado\bin\Debug\Avanzado.pdb
+C:\Users\sams club àtria\OneDrive - Centro de Enseñanza Técnica Industrial\Programación\CSharp\Avanzado\Avanzado\obj\Debug\Avanzado.csprojResolveAssemblyReference.cache
+C:\Users\sams club àtria\OneDrive - Centro de Enseñanza Técnica Industrial\Programación\CSharp\Avanzado\Avanzado\obj\Debug\Avanzado.exe
+C:\Users\sams club àtria\OneDrive - Centro de Enseñanza Técnica Industrial\Programación\CSharp\Avanzado\Avanzado\obj\Debug\Avanzado.pdb
